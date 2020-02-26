@@ -3,7 +3,6 @@ body{
 	background-image: url("blacknwhite.jpg");
 		background-size: cover;
 	background-color: #cccccc;
-	background-blend-mode: color-burn;
 }
 h1{
 	color: white;
@@ -96,7 +95,7 @@ h4{
 }
 
 #right {
-	width:100px;
+	width:400px;
 	height:400px;
 	padding: 70px;
 	float: right;

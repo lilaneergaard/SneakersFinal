@@ -2,8 +2,8 @@ html, body
 body{
 	background-image: url("blacknwhite.jpg");
 		background-size: cover;
-		/*background-blend-mode: soft-light;*/
 	background-color: #cccccc;
+	background-blend-mode: color-burn;
 }
 h1{
 	color: white;
